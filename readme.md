@@ -1,7 +1,7 @@
 # Инструкция по работе с GIT
 
 LICENSE: [MIT](./license.md)
-
+![git logo](./assets/git-logo.png)
 ---
 
 ### Содержание
