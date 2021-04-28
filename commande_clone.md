@@ -4,4 +4,6 @@
 
 **git clone** - создание копии репозитория.
 
-Пример: git clone https//github.com/tatkaprk/example
+***Пример:***
+
+`git clone https//github.com/tatkaprk/example`
