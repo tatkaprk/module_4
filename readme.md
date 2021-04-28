@@ -6,9 +6,9 @@ LICENSE: [MIT](./license.md)
 
 ### Содержание
 
- 1. [GIT: описание](./about_GIT.md)
+ + [GIT: описание](./about_GIT.md)
 
- 2. Основные операции GIT
+ + Основные операции GIT
 
    + [git config](./commande_config.md)
 
@@ -30,7 +30,7 @@ LICENSE: [MIT](./license.md)
 
    + [git push](./commande_push.md)
 
- 3. Получение данных о состоянии репозитория
++ Получение данных о состоянии репозитория
 
    +  [git status](./info_status.md)
 
@@ -38,9 +38,9 @@ LICENSE: [MIT](./license.md)
 
    +  [git show](./info_show.md)
 
- 4. [Файл .gitignore](./about_gitignore.md)
++ [Файл .gitignore](./about_gitignore.md)
 
- 5. [Ветвление](./about_branch.md)
++ [Ветвление](./about_branch.md)
 
 
 ---
